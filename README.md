@@ -45,8 +45,6 @@
 - структура пенсіонерів за п'ятьма категоріями розміру пенсій;
 - динаміка кількості пенсіонерів у кожній категорії.
 
-[Відкрити книгу Tableau Public](https://public.tableau.com/views/20242026/sheet10?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
 ## Основні результати
 
 ### Динаміка середньої пенсії та інфляції
@@ -75,7 +73,7 @@
 
 Ці відмінності демонструють нерівномірність середнього розміру пенсійних виплат. Самі по собі вони не пояснюють відмінностей у вартості життя чи добробуті пенсіонерів у кожному регіоні.
 
-### Індекс купівельної спроможності
+### Індекс відносної купівельної спроможності
 
 Для регіонального порівняння використано співвідношення індексу пенсії та індексу цін.
 
@@ -115,7 +113,7 @@
 
 Базове значення на 01.01.2024 встановлено на рівні 100.
 
-### Індекс купівельної спроможності
+### Індекс відносної купівельної спроможності
 
 `Індекс купівельної спроможності = Індекс пенсії / Індекс цін × 100`
 
@@ -172,7 +170,13 @@
 
 - [Пенсійний фонд України - статистика середнього розміру пенсій та розподілу пенсіонерів за розміром виплат.](https://www.pfu.gov.ua/statystyka/dani-pro-serednij-rozmir-pensijnoyi-vyplaty/)
 - [Державна служба статистики України - індекси споживчих цін.](https://stat.gov.ua/uk/datasets/zminy-tsin-taryfiv-na-spozhyvchi-tovary-posluhy)
-- [Федерація профспілок України - розрахункові показники прожиткового мінімуму за фактичними цінами.](https://www.fpsu.org.ua/informatsiya-za-napryamkami-diyalnosti/sotsialnij-zakhist/)
+- Федерація профспілок України - розрахункові показники прожиткового мінімуму за фактичними цінами:
+[Інформація Мінсоцполітики щодо фактичного розміру прожиткового мінімуму](https://www.fpsu.org.ua/news/%D1%96%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D1%96%D1%8F-%D0%BC%D1%96%D0%BD%D1%81%D0%BE%D1%86%D0%BF%D0%BE%D0%BB%D1%96%D1%82%D0%B8%D0%BA%D0%B8-%D1%89%D0%BE%D0%B4%D0%BE-%D1%84%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%BD%D0%BE%D0%B3%D0%BE-%D1%80%D0%BE%D0%B7%D0%BC%D1%96%D1%80%D1%83-%D0%BF%D1%80%D0%BE%D0%B6%D0%B8%D1%82%D0%BA%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE-%D0%BC%D1%96%D0%BD%D1%96%D0%BC%D1%83%D0%BC%D1%83/),
+[Інформація Мінсоцполітики щодо фактичного розміру прожиткового мінімуму у цінах лютого, 2025 р.](https://www.fpsu.org.ua/informatsiya-za-napryamkami-diyalnosti/sotsialnij-zakhist/27347-informatsiia-minsotspolityky-shchodo-faktychnoho-rozmiru-prozhytkovoho-minimumu-5.html),
+[Інформація Мінсоцполітики щодо фактичного розміру прожиткового мінімуму (січень, 2025 р.)](https://www.fpsu.org.ua/materiali/27258-informatsiia-minsotspolityky-shchodo-faktychnoho-rozmiru-prozhytkovoho-minimumu-3-27258.html)
+[Інформація Мінсоцполітики щодо фактичного розміру прожиткового мінімуму](https://www.fpsu.org.ua/informatsiya-za-napryamkami-diyalnosti/sotsialnij-zakhist/24201-informatsiia-minsotspolityky-shchodo-faktychnoho-rozmiru-prozhytkovoho-minimumu.html)
+[Інформація Мінсоцполітики щодо фактичного розміру прожиткового мінімуму у цінах лютого, 2025 р.](https://www.fpsu.org.ua/informatsiya-za-napryamkami-diyalnosti/sotsialnij-zakhist/27347-informatsiia-minsotspolityky-shchodo-faktychnoho-rozmiru-prozhytkovoho-minimumu-5.html)
+
 - Законодавство України - встановлені розміри прожиткового мінімуму.
 Нормативні джерела:
 - [Закон України про Державний бюджет на 2024 рік](https://zakon.rada.gov.ua/laws/show/3460-20#Text)
