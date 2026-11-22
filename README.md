@@ -217,7 +217,8 @@
 
 [Інформація Мінсоцполітики щодо фактичного розміру прожиткового мінімуму у цінах лютого, 2025 р.](https://www.fpsu.org.ua/informatsiya-za-napryamkami-diyalnosti/sotsialnij-zakhist/27347-informatsiia-minsotspolityky-shchodo-faktychnoho-rozmiru-prozhytkovoho-minimumu-5.html).
 
-- Законодавство України - встановлені розміри прожиткового мінімуму.
+Законодавство України - встановлені розміри прожиткового мінімуму.
+
 Нормативні джерела:
 - [Закон України про Державний бюджет на 2024 рік](https://zakon.rada.gov.ua/laws/show/3460-20#Text)
 - [Закон України про Державний бюджет на 2025 рік](https://zakon.rada.gov.ua/laws/show/4059-20#Text)
